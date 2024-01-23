@@ -11,4 +11,4 @@ iii)#checking the heat map to get the count of null values
 CSV files used for gradio :
 1)train.csv
 2)gradio_tain2.csv:Selecting most appropriate five features by taking reference from heatmap
-3)gradio_test.csv:
+3)gradio_test.csv:Selecting most appropriate five features by taking reference from heatmap
